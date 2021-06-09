@@ -4,11 +4,8 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Version-3.1-brightgreen"></p>
 <p align="center">
-  <a href="https://github.com/sauceisgood">
-    <img src="https://t.me/sauceisgood">
-  </a>
-  <a href="https://github.com/sauceisgood/tg">
-    <img src="https://t.me/sauceisgood">
+<a href="https://github.com/sauceisgood">
+    <img src="https://camo.githubusercontent.com/a88a4b91e4220651dd5593fc39b3be063a7e53ecd1afc50aa75ac915cedd7c47/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f746833756e6b6e306e3f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/followers/sauceisgood?label=Follow&amp;style=social" style="max-width:100%;">
   </a>
 </p>
 <p align="center">
